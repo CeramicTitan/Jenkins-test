@@ -10,7 +10,7 @@
         <url>https://github.com/CeramicTitan/Jenkins-test/issues</url>
     </issueManagement>
     <build>
-        <finalName>Bleed</finalName>
+        <finalName>Jenkins</finalName>
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
         <resources>
             <resource>
