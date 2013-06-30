@@ -1,0 +1,7 @@
+name: Jenkins
+main: me.ceramictitan.jenkins.jenkins
+version: 0.1
+commands:
+    killall:
+        description: removes entities
+        usage: /<command> <int>
